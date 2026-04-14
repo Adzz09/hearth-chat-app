@@ -1,0 +1,4 @@
+Requirements for the app:
+
+tkinter
+pymysql
