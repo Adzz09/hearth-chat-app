@@ -68,7 +68,7 @@ A modern desktop chat application built using \*\*Python (Tkinter)\*\* and \*\*M
 
 ```bash
 
-git clone https://github.com/your-username/hearth-chat-app.git
+git clone https://github.com/Adzz09/hearth-chat-app.git
 
 cd hearth-chat-app
 
@@ -110,7 +110,7 @@ CREATE TABLE users (
 
 &#x20;   id INT AUTO\_INCREMENT PRIMARY KEY,
 
-&#x20;   user\_name VARCHAR(255),
+&#x20;   user_name VARCHAR(255),
 
 &#x20;   password VARCHAR(255)
 
@@ -174,7 +174,7 @@ python main.py
 
 
 
-Your Name
+Mayukh Mallick
 
 GitHub: https://github.com/Adzz09
 
