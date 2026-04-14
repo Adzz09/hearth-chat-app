@@ -34,7 +34,7 @@ A modern desktop chat application built using \*\*Python (Tkinter)\*\* and \*\*M
 
 
 
-!\[App Screenshot](assets/screenshot.png)
+!\screenshot.png
 
 
 
